@@ -54,14 +54,16 @@ search:
   rel_url: true
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
-  button: false
+  button: true
 
 # Enable or disable heading anchors
 heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
+  "Your Schedule":
+    - "//github.com/pmarsceill/just-the-docs"
+      "Groupchat":
     - "//github.com/pmarsceill/just-the-docs"
 
 # Makes Aux links open in a new tab. Default is false
