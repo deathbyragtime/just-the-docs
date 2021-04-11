@@ -69,6 +69,10 @@ aux_links:
     - "//github.com/pmarsceill/just-the-docs"  
   "Groupchat":
     - "//github.com/pmarsceill/just-the-docs"
+  "Employee Directory":
+    - "//github.com/pmarsceill/just-the-docs"
+  "Groupchat":
+    - "//github.com/pmarsceill/just-the-docs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
